@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace MigrationsDemo
 {
+    // This is a comment
     class Program
     {
         static void Main(string[] args)
